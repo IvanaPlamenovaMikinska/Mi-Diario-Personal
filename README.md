@@ -30,6 +30,7 @@ Aplicación web personal para llevar un diario digital con múltiples categoría
 ### 1. Clonar el repositorio
 
 git clone https://github.com/IvanaPlamenovaMikinska/Mi-Diario-Personal.git
+
 cd Mi-Diario-Personal
 
 ### 2. Instalar dependencias
@@ -78,5 +79,3 @@ La aplicación estará disponible en `http://localhost:5173`
 Ivana - [@IvanaPlamenovaMikinska](https://github.com/IvanaPlamenovaMikinska)
 
 ---
-
-⭐ ¡Dale una estrella al proyecto si te ha gustado!
