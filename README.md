@@ -29,29 +29,20 @@ Aplicación web personal para llevar un diario digital con múltiples categoría
 
 ### 1. Clonar el repositorio
 
-\`\`\`sh
-git clone https://github.com/TU-USUARIO/diario-personal.git
-cd diario-personal
-\`\`\`
+git clone https://github.com/IvanaPlamenovaMikinska/Mi-Diario-Personal.git
+cd Mi-Diario-Personal
 
 ### 2. Instalar dependencias
 
-\`\`\`sh
 npm install
-\`\`\`
 
-### 3. Iniciar el servidor de datos
-
-\`\`\`sh
 # En una terminal separada
-npx json-server --watch data/diario-multiusuario.json --port 3000
-\`\`\`
+### 3. Iniciar el servidor de datos
+json-server diario-multiusuario.json 
 
 ### 4. Iniciar la aplicación
 
-\`\`\`sh
 npm run dev
-\`\`\`
 
 La aplicación estará disponible en `http://localhost:5173`
 
@@ -65,66 +56,6 @@ La aplicación estará disponible en `http://localhost:5173`
 ### Usuarios existentes
 - **Usuario de prueba**: `ivana` (PIN: `1234`)
 
-## 🗂️ Estructura del proyecto
-
-\`\`\`
-PROYECTOFINALDAW/
-├── .vscode/                # Configuración de VS Code
-├── node_modules/          # Dependencias (ignoradas por git)
-├── public/                # Archivos públicos
-│   ├── images/            # Imágenes estáticas
-│   
-├── src/                   # Código fuente
-│   ├── assets/            # Recursos estáticos
-│   │   ├── base.css       # Estilos base
-│   │   ├── logo.svg       # Logo de la aplicación
-│   │   └── style.css      # Estilos principales
-│   ├── components/        # Componentes reutilizables
-│   │   ├── FormComidas.vue
-│   │   ├── FormCompras.vue
-│   │   ├── FormCursos.vue
-│   │   ├── FormDiario.vue
-│   │   ├── FormEjercicios.vue
-│   │   ├── FormEstadoAnimo.vue
-│   │   ├── FormEventos.vue
-│   │   ├── FormHabitos.vue
-│   │   ├── FormLibros.vue
-│   │   ├── FormLogros.vue
-│   │   ├── FormMetas.vue
-│   │   ├── FormMusica.vue
-│   │   ├── FormPeliculas.vue
-│   │   ├── FormSeries.vue
-│   │   ├── FormViajes.vue
-│   │   └── FormVideojuegos.vue
-│   ├── router/            # Configuración de rutas
-│   │   └── index.js       # Definición de rutas
-│   ├── stores/            # Gestión de estado con Pinia
-│   │   ├── authStore.js   # Autenticación de usuarios
-│   │   └── store.js       # Datos de la aplicación
-│   ├── views/             # Vistas principales
-│   │   ├── AuthView.vue   # Login y registro
-│   │   ├── ComidaView.vue
-│   │   ├── CompraView.vue
-│   │   ├── CursoView.vue
-│   │   ├── DiarioView.vue
-│   │   ├── EjercicioView.vue
-│   │   ├── EstadoAnimoView.vue
-│   │   ├── EventoView.vue
-│   │   ├── HabitoView.vue
-│   │   ├── HomeView.vue   # Vista principal
-│   │   ├── LibroView.vue
-│   │   ├── LogroView.vue
-│   │   ├── MetaView.vue
-│   │   ├── MusicaView.vue
-│   │   ├── PeliculaView.vue
-│   │   ├── SerieView.vue
-│   │   ├── ViajeView.vue
-│   │   └── VideojuegoView.vue
-│   ├── App.vue            # Componente raíz
-│   ├── diario-multiusuario.json # Datos de la aplicación
-│   └── main.js            # Punto de entrada
-└── ... otros archivos de configuración
-\`\`\`
 
 ## 📱 Categorías disponibles
 
