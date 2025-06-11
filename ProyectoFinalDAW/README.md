@@ -24,7 +24,7 @@ Aplicación web personal para llevar un diario digital con múltiples categoría
 
 ### 1. Clonar el repositorio
 
-git clone [https://github.com/TU-USUARIO/PROYECTOFINALDAW.git](https://github.com/IvanaPlamenovaMikinska/Mi-Diario-Personal.git)
+git clone https://github.com/IvanaPlamenovaMikinska/Mi-Diario-Personal
 
 cd Mi-Diario-personal
 
