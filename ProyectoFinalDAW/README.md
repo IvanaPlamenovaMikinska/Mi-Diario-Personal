@@ -24,8 +24,9 @@ Aplicación web personal para llevar un diario digital con múltiples categoría
 
 ### 1. Clonar el repositorio
 
-git clone https://github.com/TU-USUARIO/PROYECTOFINALDAW.git
-cd PROYECTOFINALDAW
+git clone [https://github.com/TU-USUARIO/PROYECTOFINALDAW.git](https://github.com/IvanaPlamenovaMikinska/Mi-Diario-Personal.git)
+
+cd Mi-Diario-personal
 
 ### 2. Instalar dependencias
 
@@ -54,67 +55,6 @@ La aplicación estará disponible en http://localhost:5173/login
 ### Usuarios existentes
 - *Usuario de prueba*: ivana (PIN: 1234)
 - Hay que volver a crearlo en vuestro ordenador ya que se guarda e el localStorage
-
-## 🗂️ Estructura del proyecto
-
-\\\`
-PROYECTOFINALDAW/
-├── .vscode/                # Configuración de VS Code
-├── node_modules/          # Dependencias (ignoradas por git)
-├── public/                # Archivos públicos
-│   ├── images/            # Imágenes estáticas
-│   └── favicon.ico        # Icono de la aplicación
-├── src/                   # Código fuente
-│   ├── assets/            # Recursos estáticos
-│   │   ├── base.css       # Estilos base
-│   │   ├── logo.svg       # Logo de la aplicación
-│   │   └── style.css      # Estilos principales
-│   ├── components/        # Componentes reutilizables
-│   │   ├── FormComidas.vue
-│   │   ├── FormCompras.vue
-│   │   ├── FormCursos.vue
-│   │   ├── FormDiario.vue
-│   │   ├── FormEjercicios.vue
-│   │   ├── FormEstadoAnimo.vue
-│   │   ├── FormEventos.vue
-│   │   ├── FormHabitos.vue
-│   │   ├── FormLibros.vue
-│   │   ├── FormLogros.vue
-│   │   ├── FormMetas.vue
-│   │   ├── FormMusica.vue
-│   │   ├── FormPeliculas.vue
-│   │   ├── FormSeries.vue
-│   │   ├── FormViajes.vue
-│   │   └── FormVideojuegos.vue
-│   ├── router/            # Configuración de rutas
-│   │   └── index.js       # Definición de rutas
-│   ├── stores/            # Gestión de estado con Pinia
-│   │   ├── authStore.js   # Autenticación de usuarios
-│   │   └── store.js       # Datos de la aplicación
-│   ├── views/             # Vistas principales
-│   │   ├── AuthView.vue   # Login y registro
-│   │   ├── ComidaView.vue
-│   │   ├── CompraView.vue
-│   │   ├── CursoView.vue
-│   │   ├── DiarioView.vue
-│   │   ├── EjercicioView.vue
-│   │   ├── EstadoAnimoView.vue
-│   │   ├── EventoView.vue
-│   │   ├── HabitoView.vue
-│   │   ├── HomeView.vue   # Vista principal
-│   │   ├── LibroView.vue
-│   │   ├── LogroView.vue
-│   │   ├── MetaView.vue
-│   │   ├── MusicaView.vue
-│   │   ├── PeliculaView.vue
-│   │   ├── SerieView.vue
-│   │   ├── ViajeView.vue
-│   │   └── VideojuegoView.vue
-│   ├── App.vue            # Componente raíz
-│   ├── diario-multiusuario.json # Datos de la aplicación
-│   └── main.js            # Punto de entrada
-└── ... otros archivos de configuración
-\\\`
 
 ## 👤 Autor
 
