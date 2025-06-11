@@ -32,12 +32,11 @@ cd Mi-Diario-personal
 
 npm install
 
+# En una terminal separada
 
 ### 3. Iniciar el servidor de datos
 
-# En una terminal separada
 json-server diario-multiusuario.json
-
 
 ### 4. Iniciar la aplicación
 
