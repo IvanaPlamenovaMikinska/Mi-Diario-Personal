@@ -36,6 +36,8 @@ npm install
 
 ### 3. Iniciar el servidor de datos
 
+cd src
+
 json-server diario-multiusuario.json
 
 ### 4. Iniciar la aplicación
