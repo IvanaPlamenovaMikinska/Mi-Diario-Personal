@@ -55,7 +55,7 @@ La aplicación estará disponible en http://localhost:5173/login
 
 ### Usuarios existentes
 - *Usuario de prueba*: ivana (PIN: 1234)
-- Hay que volver a crearlo en vuestro ordenador ya que se guarda e el localStorage
+(Hay que volver a crearlo en vuestro ordenador)
 
 ## 👤 Autor
 
