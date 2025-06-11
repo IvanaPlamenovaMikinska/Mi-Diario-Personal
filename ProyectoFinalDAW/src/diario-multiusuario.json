@@ -1,0 +1,664 @@
+{
+  "usuarios": {
+    "aarons": {
+      "entretenimiento": {
+        "peliculas": [],
+        "series": [
+          {
+            "nombre": "Outer Banks",
+            "temporada": 4,
+            "plataforma": "Netflix",
+            "fecha_vista": "2025-06-06",
+            "puntuacion": 5,
+            "comentario": "QUE VUELVA JJ",
+            "imagen": "outerBanks.jpg",
+            "id": 1749201126898
+          },
+          {
+            "nombre": "dsf",
+            "temporada": 2,
+            "plataforma": "sff",
+            "fecha_vista": "2025-06-17",
+            "puntuacion": 4,
+            "comentario": "ashvd",
+            "imagen": "",
+            "id": 1749649543530
+          }
+        ],
+        "libros": [],
+        "videojuegos": [],
+        "musica": []
+      },
+      "experiencias_ocio": {
+        "viajes": [],
+        "eventos": [],
+        "comidas": [],
+        "compras": []
+      },
+      "bienestar_salud": {
+        "ejercicios": [],
+        "habitos": [],
+        "estado_animo": []
+      },
+      "crecimiento_personal": {
+        "metas": [],
+        "cursos": [],
+        "logros": [],
+        "diario": []
+      }
+    },
+    "ivana": {
+      "entretenimiento": {
+        "peliculas": [
+          {
+            "id": 1,
+            "titulo": "Oppenheimer",
+            "genero": "Drama Histórico",
+            "director": "Christopher Nolan",
+            "puntuacion": 4,
+            "comentario": "Una obra maestra cinematográfica. La actuación de Cillian Murphy es excepcional y la dirección de Nolan impecable.",
+            "fecha_vista": "2024-12-15",
+            "imagen": "oppenheimer.jpg"
+          },
+          {
+            "id": 2,
+            "titulo": "Spider-Man: Across the Spider-Verse",
+            "genero": "Animación",
+            "director": "Joaquim Dos Santos",
+            "puntuacion": 5,
+            "comentario": "Revolucionaria en términos de animación. Cada frame es una obra de arte y la historia es emocionalmente poderosa.",
+            "fecha_vista": "2024-11-28",
+            "imagen": "spiderverse.jpg"
+          },
+          {
+            "id": 3,
+            "titulo": "Dune: Part Two",
+            "genero": "Ciencia Ficción",
+            "director": "Denis Villeneuve",
+            "puntuacion": 3,
+            "comentario": "Visualmente espectacular. Villeneuve logra adaptar magistralmente la novela de Herbert.",
+            "fecha_vista": "2024-10-22",
+            "imagen": "dune2.jpg"
+          },
+          {
+            "titulo": "titanic",
+            "director": "ajjs",
+            "genero": "skjsbd",
+            "fecha_vista": "2025-06-10",
+            "puntuacion": 3,
+            "comentario": "shbdh",
+            "imagen": "",
+            "id": 1749649502665
+          }
+        ],
+        "series": [
+          {
+            "id": 1,
+            "nombre": "The Bear",
+            "temporada": 3,
+            "plataforma": "Disney+",
+            "puntuacion": 5,
+            "comentario": "Perfecta mezcla de comedia y drama. Jeremy Allen White está increíble y la tensión en la cocina se siente real.",
+            "fecha_vista": "2024-12-10",
+            "imagen": "thebear.jpg"
+          },
+          {
+            "id": 2,
+            "nombre": "House of the Dragon",
+            "temporada": 2,
+            "plataforma": "HBO Max",
+            "puntuacion": 3,
+            "comentario": "Mejor que la primera temporada. Los dragones están espectaculares y la política familiar es fascinante.",
+            "fecha_vista": "2024-11-15",
+            "imagen": "hotd.jpg"
+          },
+          {
+            "id": 3,
+            "nombre": "Wednesday",
+            "temporada": 1,
+            "plataforma": "Netflix",
+            "puntuacion": 2,
+            "comentario": "Jenna Ortega es perfecta como Wednesday. La serie tiene buen ritmo aunque algunos misterios son predecibles.",
+            "fecha_vista": "2024-10-05",
+            "imagen": "wednesday.jpg"
+          }
+        ],
+        "libros": [
+          {
+            "id": 1,
+            "titulo": "Klara and the Sun",
+            "autor": "Kazuo Ishiguro",
+            "genero": "Ciencia Ficción",
+            "puntuacion": 4,
+            "comentario": "Ishiguro logra crear una narrativa emotiva desde la perspectiva de una IA. Reflexiona sobre la humanidad y el amor.",
+            "fecha_lectura": "2024-12-01",
+            "imagen": "klara.jpg"
+          },
+          {
+            "id": 2,
+            "titulo": "The Seven Husbands of Evelyn Hugo",
+            "autor": "Taylor Jenkins Reid",
+            "genero": "Ficción Histórica",
+            "puntuacion": 3,
+            "comentario": "Adictivo y bien escrito. La historia de Evelyn es fascinante y el final me sorprendió.",
+            "fecha_lectura": "2024-11-10",
+            "imagen": "evelyn.jpg"
+          },
+          {
+            "id": 3,
+            "titulo": "Atomic Habits",
+            "autor": "James Clear",
+            "genero": "Autoayuda",
+            "puntuacion": 4,
+            "comentario": "Práctico y basado en ciencia. Me ha ayudado a implementar mejores rutinas en mi vida diaria.",
+            "fecha_lectura": "2024-10-15",
+            "imagen": "atomichabits.jpg"
+          }
+        ],
+        "videojuegos": [
+          {
+            "nombre": "Baldur's Gate 3",
+            "plataforma": "Mobile",
+            "horas_jugadas": 50,
+            "fecha": "2024-12-21",
+            "puntuacion": 5,
+            "comentario": "El mejor RPG que he jugado en años. La libertad de elección y las consecuencias son increíbles.",
+            "imagen": "bg3.jpg",
+            "id": 1
+          },
+          {
+            "id": 2,
+            "nombre": "Spider-Man 2",
+            "plataforma": "PlayStation 5",
+            "horas_jugadas": 35,
+            "fecha": "2024-11-30",
+            "puntuacion": 4,
+            "comentario": "Mecánicas de web-swinging perfectas. La historia de Peter y Miles está muy bien desarrollada.",
+            "imagen": "spiderman2.jpg"
+          },
+          {
+            "id": 3,
+            "nombre": "Pizza Tower",
+            "plataforma": "Nintendo Switch",
+            "horas_jugadas": 25,
+            "fecha": "2024-10-12",
+            "puntuacion": 3,
+            "comentario": "Plataformero frenético y divertido. La animación es espectacular y la música pegadiza.",
+            "imagen": "pizzatower.jpg"
+          },
+          {
+            "nombre": "Fifa",
+            "plataforma": "Nintendo Switch",
+            "horas_jugadas": 20,
+            "fecha": "2025-06-03",
+            "puntuacion": 5,
+            "comentario": "ahasbbsd",
+            "imagen": "",
+            "id": 1749649746274
+          }
+        ],
+        "musica": [
+          {
+            "id": 1,
+            "nombre": "Midnights",
+            "artista": "Taylor Swift",
+            "genero": "Pop",
+            "puntuacion": 4,
+            "comentario": "Taylor en su mejor momento compositivo. 'Anti-Hero' y 'Lavender Haze' son obras maestras.",
+            "fecha": "2024-12-05",
+            "imagen": "midnights.jpg"
+          },
+          {
+            "id": 2,
+            "nombre": "Un Verano Sin Ti",
+            "artista": "Bad Bunny",
+            "genero": "Reggaeton",
+            "puntuacion": 3,
+            "comentario": "Álbum perfecto para el verano. Bad Bunny experimenta con diferentes sonidos y funciona.",
+            "fecha": "2024-11-20",
+            "imagen": "unverano.jpg"
+          },
+          {
+            "id": 3,
+            "nombre": "Harry's House",
+            "artista": "Harry Styles",
+            "genero": "Pop Rock",
+            "puntuacion": 4,
+            "comentario": "Maduro y cohesivo. 'As It Was' y 'Music for a Sushi Restaurant' son increíbles.",
+            "fecha": "2024-10-08",
+            "imagen": "harryshouse.jpg"
+          }
+        ]
+      },
+      "experiencias_ocio": {
+        "viajes": [
+          {
+            "id": 1,
+            "destino": "Tokio, Japón",
+            "fechas": "2024-11-15 al 2024-11-25",
+            "transporte": "Avión",
+            "actividades": "Templos, mercado de Tsukiji, Shibuya, museos, karaoke, onsen",
+            "puntuacion": 5,
+            "fotos": [
+              "tokyo1.jpg",
+              "tokyo2.jpg",
+              "tokyo3.jpg"
+            ]
+          },
+          {
+            "id": 2,
+            "destino": "Ámsterdam, Países Bajos",
+            "fechas": "2024-09-20 al 2024-09-24",
+            "transporte": "Avión",
+            "actividades": "Museos Van Gogh y Rijksmuseum, paseos en bicicleta por los canales, mercados locales",
+            "puntuacion": 4,
+            "fotos": [
+              "amsterdam1.jpg",
+              "amsterdam2.jpg"
+            ]
+          },
+          {
+            "id": 3,
+            "destino": "Barcelona, España",
+            "fechas": "2024-07-10 al 2024-07-14",
+            "transporte": "Tren",
+            "actividades": "Sagrada Familia, Park Güell, Las Ramblas, playa, tapas tour",
+            "puntuacion": 3,
+            "fotos": [
+              "barcelona1.jpg",
+              "barcelona2.jpg"
+            ]
+          }
+        ],
+        "eventos": [
+          {
+            "id": 1,
+            "nombre": "Concierto de Rosalía",
+            "ubicacion": "WiZink Center, Madrid",
+            "artistas": "Rosalía",
+            "fecha": "2024-12-08",
+            "puntuacion": 5,
+            "comentario": "Espectáculo visual y musical increíble. Su presencia escénica es única.",
+            "imagen": "rosalia.jpg"
+          },
+          {
+            "id": 2,
+            "nombre": "Festival Primavera Sound",
+            "ubicacion": "Barcelona",
+            "artistas": "Arctic Monkeys, Lana Del Rey, Tyler The Creator",
+            "fecha": "2024-06-15",
+            "puntuacion": 4,
+            "comentario": "Lineup espectacular. Arctic Monkeys cerró perfecto y Lana fue emotiva.",
+            "imagen": "primavera.jpg"
+          },
+          {
+            "id": 3,
+            "nombre": "Exposición Frida Kahlo",
+            "ubicacion": "Museo Thyssen, Madrid",
+            "artistas": "Frida Kahlo",
+            "fecha": "2024-10-20",
+            "puntuacion": 3,
+            "comentario": "Muy bien curada. Me emocioné viendo sus autorretratos en persona.",
+            "imagen": "frida.jpg"
+          }
+        ],
+        "comidas": [
+          {
+            "id": 1,
+            "plato": "Ramen Tonkotsu",
+            "restaurante": "Takos",
+            "ubicacion": "Madrid",
+            "fecha": "2024-12-18",
+            "puntuacion": 4,
+            "comentario": "El mejor ramen que he probado en Madrid. Caldo cremoso y chashu perfecto.",
+            "imagen": "ramen.jpg"
+          },
+          {
+            "plato": "Paella Valenciana",
+            "restaurante": "Casa Roberto",
+            "ubicacion": "Valencia",
+            "puntuacion": 5,
+            "fecha": "2024-11-28",
+            "comentario": "Auténtica paella valenciana. El arroz en su punto y el sabor increíble.",
+            "imagen": "paella.jpg",
+            "id": 2
+          },
+          {
+            "id": 3,
+            "plato": "Tacos al Pastor",
+            "restaurante": "Taquería El Mexicano",
+            "ubicacion": "Barcelona",
+            "fecha": "2024-10-15",
+            "puntuacion": 3,
+            "comentario": "Sabor auténtico mexicano. La piña y la carne estaban perfectas.",
+            "imagen": "tacos.jpg"
+          }
+        ],
+        "compras": [
+          {
+            "producto": "iPhone 15 Pro",
+            "tienda": "Apple Store",
+            "precio": 1199,
+            "puntuacion": 4,
+            "fecha": "2024-12-13",
+            "comentario": "Cámara espectacular y el titanio se siente premium. Valió la pena la inversión.",
+            "imagen": "iphone15.jpg",
+            "id": 1
+          },
+          {
+            "id": 2,
+            "producto": "Zapatillas Nike Air Jordan 1",
+            "tienda": "Foot Locker",
+            "precio": 140,
+            "fecha": "2024-11-22",
+            "puntuacion": 3,
+            "comentario": "Cómodas y con estilo. El diseño clásico nunca pasa de moda.",
+            "imagen": "jordan1.jpg"
+          },
+          {
+            "id": 3,
+            "producto": "MacBook Air M2",
+            "tienda": "Amazon",
+            "precio": 1249,
+            "fecha": "2024-10-08",
+            "puntuacion": 5,
+            "comentario": "Rendimiento increíble y batería que dura todo el día. Perfecto para programar.",
+            "imagen": "macbookair.jpg"
+          }
+        ]
+      },
+      "bienestar_salud": {
+        "ejercicios": [
+          {
+            "id": 1,
+            "actividad": "Entrenamiento de fuerza",
+            "duracion": "1h 15min",
+            "fecha": "2024-12-20",
+            "progreso": "Aumenté peso en sentadillas a 80kg. Me siento más fuerte cada semana."
+          },
+          {
+            "id": 2,
+            "actividad": "Yoga matutino",
+            "duracion": "45min",
+            "fecha": "2024-12-19",
+            "progreso": "Conseguí mantener la postura del cuervo por 30 segundos. Flexibilidad mejorando."
+          },
+          {
+            "id": 3,
+            "actividad": "Carrera en el parque",
+            "duracion": "35min",
+            "fecha": "2024-12-18",
+            "progreso": "Corrí 5km sin parar. Mi resistencia cardiovascular está mejorando notablemente."
+          }
+        ],
+        "habitos": [
+          {
+            "id": 1,
+            "habito": "Meditación diaria",
+            "duracion": "8 semanas",
+            "fecha": "2024-10-15",
+            "cambios": "Mayor claridad mental y menos ansiedad. Duermo mejor y me siento más centrada."
+          },
+          {
+            "id": 2,
+            "habito": "Leer antes de dormir",
+            "duracion": "12 semanas",
+            "fecha": "2024-09-01",
+            "cambios": "Duermo más rápido y profundo. He leído 6 libros desde que empecé."
+          },
+          {
+            "id": 3,
+            "habito": "Caminar 10,000 pasos diarios",
+            "duracion": "6 semanas",
+            "fecha": "2024-11-01",
+            "cambios": "Más energía durante el día. Descubrí nuevas rutas por la ciudad."
+          }
+        ],
+        "estado_animo": [
+          {
+            "fecha": "2024-12-20",
+            "nivel_felicidad": 6,
+            "reflexion": "Día increíble. Terminé un proyecto importante en el trabajo y celebré con amigos. Me siento realizada y agradecida.",
+            "id": 1
+          },
+          {
+            "id": 2,
+            "nivel_felicidad": 6,
+            "reflexion": "Día regular. Un poco estresada por las fechas límite, pero logré mantener la calma con meditación.",
+            "fecha": "2024-12-18"
+          },
+          {
+            "id": 3,
+            "nivel_felicidad": 4,
+            "reflexion": "Día difícil. Discusión con un familiar me afectó más de lo esperado. Necesito trabajar en no tomar las cosas tan personal.",
+            "fecha": "2024-12-15"
+          }
+        ]
+      },
+      "crecimiento_personal": {
+        "metas": [
+          {
+            "id": 1,
+            "meta": "Aprender japonés básico",
+            "inicio": "2024-09-01",
+            "limite": "2025-03-01",
+            "progreso": "Completé Hiragana y Katakana. Empezando con Kanji básicos y vocabulario.",
+            "notas": "Usando Duolingo y clases online. 30 minutos diarios. Progreso constante."
+          },
+          {
+            "id": 2,
+            "meta": "Leer 24 libros este año",
+            "inicio": "2024-01-01",
+            "limite": "2024-12-31",
+            "progreso": "22 libros completados. Muy cerca de la meta.",
+            "notas": "Variando géneros: ficción, no ficción, biografías. Descubrí autores increíbles."
+          },
+          {
+            "id": 3,
+            "meta": "Correr una media maratón",
+            "inicio": "2024-08-01",
+            "limite": "2025-04-01",
+            "progreso": "Corriendo 15km cómodamente. Plan de entrenamiento en progreso.",
+            "notas": "Siguiendo plan de 16 semanas. Sin lesiones hasta ahora. Muy motivada."
+          }
+        ],
+        "cursos": [
+          {
+            "id": 1,
+            "nombre": "React Avanzado y Next.js",
+            "plataforma": "Udemy",
+            "inicio": "2024-11-01",
+            "fin": "2024-12-15",
+            "opinion": "Excelente curso. Aprendí Server Components, App Router y optimizaciones avanzadas. Instructor muy claro."
+          },
+          {
+            "id": 2,
+            "nombre": "Fotografía Digital Profesional",
+            "plataforma": "Domestika",
+            "inicio": "2024-09-15",
+            "fin": "2024-10-30",
+            "opinion": "Mejoré mucho mi técnica. Composición, iluminación y edición. Proyectos prácticos muy útiles."
+          },
+          {
+            "id": 3,
+            "nombre": "Mindfulness y Meditación",
+            "plataforma": "Headspace",
+            "inicio": "2024-08-01",
+            "fin": "2024-09-01",
+            "opinion": "Transformador. Aprendí técnicas que uso diariamente. Mejor gestión del estrés y emociones."
+          }
+        ],
+        "logros": [
+          {
+            "id": 1,
+            "nombre": "Promoción a Senior Developer",
+            "fecha": "2024-12-01",
+            "reflexion": "Tres años de trabajo duro dieron fruto. Me siento orgullosa y lista para nuevos desafíos. El equipo confía en mi liderazgo."
+          },
+          {
+            "id": 2,
+            "nombre": "Primera exposición fotográfica",
+            "fecha": "2024-10-15",
+            "reflexion": "Exhibí 15 fotografías en una galería local. Nervios y emoción. Varias personas interesadas en comprar mis obras."
+          },
+          {
+            "id": 3,
+            "nombre": "Completé mi primer triatlón",
+            "fecha": "2024-08-20",
+            "reflexion": "Desafío físico y mental increíble. Meses de entrenamiento valieron la pena. Me demostré que puedo lograr cualquier cosa."
+          }
+        ],
+        "diario": [
+          {
+            "id": 1,
+            "texto": "Reflexionando sobre este año que termina. Ha sido de crecimiento personal increíble. Nuevos desafíos en el trabajo, viajes que ampliaron mi perspectiva, y relaciones que se fortalecieron. Agradecida por cada experiencia, buena y mala, porque todas me enseñaron algo.",
+            "fecha": "2024-12-20",
+            "imagen": "reflection.jpg"
+          },
+          {
+            "id": 2,
+            "texto": "Hoy empecé a planificar mis metas para el próximo año. Quiero enfocarme más en el equilibrio vida-trabajo y en cultivar relaciones profundas. También explorar nuevas formas de creatividad, tal vez pintura o escritura creativa.",
+            "fecha": "2024-12-15",
+            "imagen": "planning.jpg"
+          },
+          {
+            "id": 3,
+            "texto": "Conversación profunda con mi mejor amiga sobre nuestros sueños y miedos. Me recordó la importancia de tener personas que realmente te entiendan. La amistad verdadera es uno de los tesoros más grandes de la vida.",
+            "fecha": "2024-12-10",
+            "imagen": "friendship.jpg"
+          }
+        ]
+      }
+    },
+    "invitado": {
+      "entretenimiento": {
+        "peliculas": [],
+        "series": [],
+        "libros": [],
+        "videojuegos": [],
+        "musica": []
+      },
+      "experiencias_ocio": {
+        "viajes": [],
+        "eventos": [],
+        "comidas": [],
+        "compras": []
+      },
+      "bienestar_salud": {
+        "ejercicios": [],
+        "habitos": [],
+        "estado_animo": []
+      },
+      "crecimiento_personal": {
+        "metas": [],
+        "cursos": [],
+        "logros": [],
+        "diario": []
+      }
+    },
+    "pepepee": {
+      "entretenimiento": {
+        "peliculas": [],
+        "series": [],
+        "libros": [],
+        "videojuegos": [],
+        "musica": []
+      },
+      "experiencias_ocio": {
+        "viajes": [],
+        "eventos": [],
+        "comidas": [],
+        "compras": []
+      },
+      "bienestar_salud": {
+        "ejercicios": [],
+        "habitos": [],
+        "estado_animo": []
+      },
+      "crecimiento_personal": {
+        "metas": [],
+        "cursos": [],
+        "logros": [],
+        "diario": []
+      }
+    },
+    "hola": {
+      "entretenimiento": {
+        "peliculas": [],
+        "series": [],
+        "libros": [],
+        "videojuegos": [],
+        "musica": []
+      },
+      "experiencias_ocio": {
+        "viajes": [],
+        "eventos": [],
+        "comidas": [],
+        "compras": []
+      },
+      "bienestar_salud": {
+        "ejercicios": [],
+        "habitos": [],
+        "estado_animo": []
+      },
+      "crecimiento_personal": {
+        "metas": [],
+        "cursos": [],
+        "logros": [],
+        "diario": []
+      }
+    },
+    "holaaaa": {
+      "entretenimiento": {
+        "peliculas": [],
+        "series": [],
+        "libros": [],
+        "videojuegos": [],
+        "musica": []
+      },
+      "experiencias_ocio": {
+        "viajes": [],
+        "eventos": [],
+        "comidas": [],
+        "compras": []
+      },
+      "bienestar_salud": {
+        "ejercicios": [],
+        "habitos": [],
+        "estado_animo": []
+      },
+      "crecimiento_personal": {
+        "metas": [],
+        "cursos": [],
+        "logros": [],
+        "diario": []
+      }
+    },
+    "pepito": {
+      "entretenimiento": {
+        "peliculas": [],
+        "series": [],
+        "libros": [],
+        "videojuegos": [],
+        "musica": []
+      },
+      "experiencias_ocio": {
+        "viajes": [],
+        "eventos": [],
+        "comidas": [],
+        "compras": []
+      },
+      "bienestar_salud": {
+        "ejercicios": [],
+        "habitos": [],
+        "estado_animo": []
+      },
+      "crecimiento_personal": {
+        "metas": [],
+        "cursos": [],
+        "logros": [],
+        "diario": []
+      }
+    }
+  }
+}
