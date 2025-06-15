@@ -1,4 +1,4 @@
-# PROYECTOFINALDAW - Mi Diario Personal 📖
+# PROYECTO FINAL 2ºDAW - Mi Diario Personal 📖
 
 Aplicación web personal para llevar un diario digital con múltiples categorías como comidas, ejercicios, películas, libros, viajes y más.
 
